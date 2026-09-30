@@ -1,0 +1,17 @@
+# macOS metadata
+.DS_Store
+
+# Xcode user data and build products
+DerivedData/
+build/
+**/xcuserdata/
+*.xcuserstate
+*.xccheckout
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM
+*.dSYM.zip
+
+# Swift Package Manager build output
+.build/
